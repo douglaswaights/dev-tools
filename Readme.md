@@ -9,4 +9,4 @@ ssh-keygen to create ssh keys on local machine
 
 # run bash script to install common dev tools
 
-curl -s https://github.com/douglaswaights/dev-tools/install-tools.sh | bash
+curl -s https://raw.githubusercontent.com/douglaswaights/dev-tools/main/install-tools.sh | bash
