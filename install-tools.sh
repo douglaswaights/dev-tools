@@ -16,5 +16,5 @@ sudo mv kubectl /usr/bin/
 #k9s
 curl -Lo k9s.tar.gz "https://github.com/derailed/k9s/releases/download/v0.26.6/k9s_Linux_x86_64.tar.gz"
 sudo tar xf k9s.tar.gz -C /usr/local/bin k9s
-
+rm k9s.tar.gz  lazygit.tar.gz
 
